@@ -1,0 +1,6 @@
+[package]
+name = "CloseOnURL"
+version = "2.0"
+
+[dependencies]
+sysinfo = "0.33.1"
